@@ -183,6 +183,7 @@ void Game::Reset()
     Blocks = GetAllBlocks();
     Currentblock = GetRandomBlock();
     NextBlock = GetRandomBlock();
+    Score = 0;
 }
 
 void Game::updateScore(int completed, int moved)
