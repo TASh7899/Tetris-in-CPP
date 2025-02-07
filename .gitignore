@@ -27,4 +27,6 @@ CMakeFiles/
 
 
 Makefile
-
+*.exe
+*.dsym
+main
