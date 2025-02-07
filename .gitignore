@@ -24,3 +24,7 @@
 /build/
 CMakeCache.txt
 CMakeFiles/
+
+
+Makefile
+
